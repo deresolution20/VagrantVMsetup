@@ -2,7 +2,6 @@
 
 <h1>Using Vagrant to automate VM lab creation</h1>
 
-### [Cardano project](https://cardano.org/)
 Vagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes the works on my machine excuse a relic of the past.
 
 <h2>Description</h2>
@@ -18,8 +17,8 @@ Project consists of a utilizing Vagrant and git bash to automate the deployment 
 
 - <b>Git Bash</b> 
 - <b>Oracle VM Virtualbox 6.1 </b>
-- <b>CentOS7</b>
-- <b>Ubuntu 18 Server</b>
+- <b>Vagrant boxes</b>
+- <b>https://app.vagrantup.com/boxes/search</b>
 
 <h2>Environments Used </h2>
 
