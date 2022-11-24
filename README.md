@@ -59,5 +59,12 @@ We can utilize Vagrant halt to stop the VM and Vagrant destroy to delete it when
 
 <img width="537" alt="halt and destroy" src="https://user-images.githubusercontent.com/85902399/203843732-43e15ab9-8b26-42a2-b541-e4af31b122c9.png">
 
+<br/>
+<br/>
+  
+If I need to recreate a new VM, I just path to the folder and run Vagrant up.  I can create and destroy VM's easily as needed.
+  
+  <img width="490" alt="recreating vm" src="https://user-images.githubusercontent.com/85902399/203847857-b19e62b4-30f5-435f-a14f-35d418a3f7f0.png">
 
+ 
 </p>
